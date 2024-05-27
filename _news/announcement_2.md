@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I finalized my undergraduate thesis, 'Can We Use Language Models To Study Humans? Quantifying the Similarity Between Politically Opinionated LLMs and Humans'.
+title: Finalized my undergraduate thesis, 'Can We Use Language Models To Study Humans? Quantifying the Similarity Between Politically Opinionated LLMs and Humans'
 date: 2024-05-02 16:11:00-0400
 inline: false
 related_posts: false
