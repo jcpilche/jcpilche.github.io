@@ -23,4 +23,4 @@ A lover of mathematics with interests in beliefs, cognition, environment, networ
 
 I am currently working towards my first paper regarding the use of language models to simulate humans in agent based models with [Dr. Fil Menczer](https://cnets.indiana.edu/fil) and [Dr. Zoran Tiganj](https://luddy.indiana.edu/contact/profile/index.html?Zoran_Tiganj) of Indiana University Informatics and Computer Science.
 
-You can learn more about me on [LinkedIn](https://www.linkedin.com/in/jenevepilcher/), by [emailing me](jcpilche@iu.edu), or in the resume tab!
+You can learn more about me on [LinkedIn](https://www.linkedin.com/in/jenevepilcher/) or in the resume tab!
