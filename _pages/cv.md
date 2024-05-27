@@ -7,5 +7,4 @@ nav_order: 5
 cv_pdf: Jeneve-Pilcher-Resume.pdf
 description: 
 toc:
-  sidebar: left
 ---
