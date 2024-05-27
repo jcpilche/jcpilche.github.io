@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I finished my first college degree, a Bachelor of Science in Informatics! :sparkles: :smile:
+I started my first Research Assistant position at Indiana University's Observatory on Social Media. :sparkles: :smile:
