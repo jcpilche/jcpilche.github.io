@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I finished my first college degree, a bachelor's in Informatics! :sparkles: :smile:
+I finished my first college degree, a Bachelor of Science in Informatics! :sparkles: :smile:
