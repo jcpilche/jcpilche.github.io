@@ -17,10 +17,10 @@ news: true
 <!--selected_papers: false # includes a list of papers marked as "selected={true}"-->
 <!--social: false # includes social icons at the bottom of the page-->
 ---
-Dedicated and creative researcher who deeply loves to study connections amongst things, specifically between people and within people. 
+A dedicated, creative, interdisciplinary researcher who deeply loves to study connections amongst things, specifically between people and within people. 
 
-Lover of mathematics. Interested in beliefs, cognition, environment, networks, systems, artificial intelligence, ethically innovative ideas of all departments, and interdisciplinary science.
+A lover of mathematics with interests in beliefs, cognition, environment, networks, systems, artificial intelligence, and ethically innovative ideas of all departments.
 
-I am advised by [Dr. Fil Menczer](https://cnets.indiana.edu/fil) and [Dr. Zoran Tiganj](https://luddy.indiana.edu/contact/profile/index.html?Zoran_Tiganj) with Indiana University Informatics and Computer Science. I am currently working towards my first paper regarding the use of language models to simulate humans in agent based models.
+I am currently working towards my first paper regarding the use of language models to simulate humans in agent based models with [Dr. Fil Menczer](https://cnets.indiana.edu/fil) and [Dr. Zoran Tiganj](https://luddy.indiana.edu/contact/profile/index.html?Zoran_Tiganj) of Indiana University Informatics and Computer Science.
 
-You can find more about my experience on [LinkedIn](https://www.linkedin.com/in/jenevepilcher/), or in the resume tab in the navigation bar.
+You can learn more about me on [LinkedIn](https://www.linkedin.com/in/jenevepilcher/), by [emailing me](jcpilche@iu.edu), or in the resume tab!
