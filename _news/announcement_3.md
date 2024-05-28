@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my first Research Assistant position at the Indiana University Observatory on Social Media. :sparkles: :smile:
+Began my first Research Assistant position!
