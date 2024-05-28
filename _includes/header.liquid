@@ -10,14 +10,16 @@
           <!-- About -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for page in sorted_pages %}
-            <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-              <a class="nav-link" href="{{ '/' | relative_url }}">
-                {{- about_title }}
-                {% if page.permalink == '/' %}
-                  <span class="sr-only">(current)</span>
-                {% endif %}
-              </a>
-            </li>
+            {% if page.nav %}
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">
+                  {{- relative_title }}
+                  {% if page.permalink == '/' %}
+                    <span class="sr-only">(current)</span>
+                  {% endif %}
+                </a>
+              </li>
+            {% endif %}
           {% endfor %}
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
