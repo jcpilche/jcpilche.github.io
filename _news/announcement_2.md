@@ -5,7 +5,7 @@ date: 2024-05-02 16:11:00-0400
 inline: false
 related_posts: false
 ---
-**Can We Use Language Models To Study Humans? Quantifying the Similarity Between Politically Opinionated LLMs and Humans
+**Can We Use Language Models To Study Humans? Quantifying the Similarity Between Politically Opinionated LLMs and Humans**
 ---
 
 <ins>Abstract:</ins>
