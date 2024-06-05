@@ -25,6 +25,6 @@ A dedicated, creative, interdisciplinary researcher who deeply loves to study th
 
 I am currently working towards my first paper regarding the use of language models to simulate humans in agent based models with [Dr. Fil Menczer](https://cnets.indiana.edu/fil) and [Dr. Zoran Tiganj](https://luddy.indiana.edu/contact/profile/index.html?Zoran_Tiganj) of Indiana University Informatics and Computer Science.
 
-You can learn more about me on [LinkedIn](https://www.linkedin.com/in/jenevepilcher/) or in the resume tab. I'm happy to talk and welcome messages to connect. 🕊️
+You can learn more about me on [LinkedIn](https://www.linkedin.com/in/jenevepilcher/). I'm happy to talk and welcome messages to connect. 🕊️
 
 ---
